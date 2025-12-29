@@ -16,6 +16,9 @@
 
 This project analyzes a bike sales dataset to uncover the key factors that influence customer purchasing behavior. The dataset includes demographic details (age, gender, marital status, education, income), lifestyle attributes (cars owned, commute distance, occupation, home ownership), and regional information. By examining these variables against bike purchase decisions, the project aims to identify patterns and provide actionable business insights.
 
+<img width="455" height="284" alt="Dashboard Png" src="https://github.com/user-attachments/assets/210d3d23-8894-4bb0-b36a-d316b8f272e7" />
+
+
 ### Data Sources
 
 The dataset used in this project is the Bike Buyers dataset.xlsx file. It consists of the following column:
